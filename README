@@ -1,0 +1,4 @@
+This is a Product Recognizer with Python 2.7 Programming Language, with OpenCV 2.4
+
+For Recognize the Products (OBject Recognition), I extract the keypoints and local invariant descriptors from the query image and compare it with the model that has been trained with the dataset (images) of all products. I try to match the product to a known database of images, A sorted list of results is returned, with the best product matches placed at the top of the list.
+
